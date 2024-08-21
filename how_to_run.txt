@@ -1,0 +1,14 @@
+How to run Crime Record Management System
+REQUIREMENTS:
+•	Python version 3 or above
+•	Pip package Mysql-connector
+•	MySQL version 5.1 or above
+
+PROCEDURE:
+•	Open file crime tables and run the program. This is to insert the tables into MySql
+•	Open file crime record management system and run the program. This is the main project file
+•	There are two types of Login: User & Admin . 
+	User Login:- This allows an individual to file a complaint record and generate a report
+	Admin Login:- this allows the administrator to access and modify all the tables in the project 
+	 
+
